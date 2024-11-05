@@ -37,8 +37,9 @@
     &quot;Application.HelloApplication.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;23&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/joaop/openjfx-23.0.1_windows-x64_bin-sdk.zip&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/joaop/IdeaProjects/loginscreen&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -51,6 +52,14 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\joaop\IdeaProjects\loginscreen" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\joaop\IdeaProjects\loginscreen" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -69,6 +78,8 @@
       <updated>1730767645210</updated>
       <workItem from="1730767646427" duration="1535000" />
       <workItem from="1730769196552" duration="47000" />
+      <workItem from="1730769285448" duration="3321000" />
+      <workItem from="1730772624164" duration="461000" />
     </task>
     <servers />
   </component>
